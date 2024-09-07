@@ -131,7 +131,7 @@ Note:Before you begin make sure .NET Framework 3.5 Features was installed
 <br />11.	Enter the Device Address (Device IP Address).
 <br />12.	Enter the right path for your root directory.
 <br /><img src="https://i.imgur.com/HVepHDa.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
-<br />Note:Please check the website below to find the appropriate path for your Operating System. https://www.ibm.com/docs/en/qradar-common?topic=agents-microsoft-sql-log-source
+Note:Please check the website below to find the appropriate path for your Operating System. https://www.ibm.com/docs/en/qradar-common?topic=agents-microsoft-sql-log-source
 <br />13.	Use Notification-based (local) as your File Monitor Type
 <br /><img src="https://i.imgur.com/WNDW4hR.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />14.	Click the Add for the destination and choose the right device. 
