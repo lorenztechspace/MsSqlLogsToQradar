@@ -67,28 +67,28 @@ Note:Before you begin make sure .NET Framework 3.5 Features was installed
 <br />3.	Accept the license agreement and click Next
 <br /><img src="https://i.imgur.com/1shSHx3.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />4.	Click **Next**
+<br />4.	Click Next
 <br /><img src="https://i.imgur.com/b4P7Zxm.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />5.	Click **Next**
+<br />5.	Click Next
 <br /><img src="https://i.imgur.com/XHeaVjb.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />6.	Select **Stand Alone** and click **Next**.
+<br />6.	Select Stand Alone and click Next
 <br /><img src="https://i.imgur.com/a15NP4L.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />7.	Click **Next**
+<br />7.	Click Next
 <br /><img src="https://i.imgur.com/80F53pO.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />8.	Click **Next**
+<br />8.	Click Next
 <br /><img src="https://i.imgur.com/HELAJCM.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />9.	Click **Next**
+<br />9.	Click Next
 <br /><img src="https://i.imgur.com/VZv3tsa.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />10.	Click **Install**
+<br />10.	Click Install
 <br /><img src="https://i.imgur.com/DL0uPNq.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />11.	Click **Finish**
+<br />11.	Click Finish
 <br /><img src="https://i.imgur.com/QMNkjyU.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
 
@@ -96,10 +96,10 @@ Note:Before you begin make sure .NET Framework 3.5 Features was installed
 <br />
 <h3>Install Wincollect standalone patch</h3>
 <br />1. Launch the installer of wincollect standalone patch
-<br />2. Click **Next**
+<br />2. Click Next
 <br /><img src="https://i.imgur.com/6Lvbjhb.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />
-<br />3.	Accept the license agreement and click **Next**
+<br />3.	Accept the license agreement and click Next
 <br /><img src="https://i.imgur.com/oB4ZlOr.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />4. Click Next
 <br /><img src="https://i.imgur.com/iW0o9a6.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
