@@ -109,10 +109,10 @@ Note:Before you begin make sure .NET Framework 3.5 Features was installed
 <br /><img src="https://i.imgur.com/4NiWmdH.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />7. Click Finish
 <br /><img src="https://i.imgur.com/f8hTviZ.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
-
+<br />
 
 <h3>Configure Wincollect Agent to forward the Logs</h3>
-<br />1. Launch the Wincollect Configuration Console
+1. Launch the Wincollect Configuration Console
 <br />2.	Click drop-down arrow under Destinations and right-click to Syslog TCP.
 <br />3.	Click Add New Destination
 <br /><img src="https://i.imgur.com/x4ikCxa.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
@@ -120,7 +120,24 @@ Note:Before you begin make sure .NET Framework 3.5 Features was installed
 <br /><img src="https://i.imgur.com/OY1KtQV.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 <br />5.	Go to created destination name and enter the Hostname/IP.
 <br /><img src="https://i.imgur.com/Nyx9l3O.png" height="60%" width="60%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
-
+<br />6.	Click Deploy Changes, wait for the message “Changes have been successfully deployed” and click Ok.
+<br /><img src="https://i.imgur.com/jgTnDJc.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
+<br />7.	Click drop-down arrow under Devices and right-click to Microsoft SQL Server
+<br />8.	Click Add New Device
+<br /><img src="https://i.imgur.com/MFlKLcZ.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
+<br />9.	Enter a Device Name and click Ok.
+<br /><img src="https://i.imgur.com/4b00BpT.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
+<br />10. Go the created Device Name under Microsoft SQL Server. 
+<br />11.	Enter the Device Address (Device IP Address).
+<br />12.	Enter the right path for your root directory.
+<br /><img src="https://i.imgur.com/HVepHDa.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
+<br />Note:Please check the website below to find the appropriate path for your Operating System. https://www.ibm.com/docs/en/qradar-common?topic=agents-microsoft-sql-log-source
+<br />13.	Use Notification-based (local) as your File Monitor Type
+<br /><img src="https://i.imgur.com/WNDW4hR.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
+<br />14.	Click the Add for the destination and choose the right device. 
+<br /><img src="https://i.imgur.com/SkrKYmL.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
+<br />15.	Click Deploy Changes, wait for the message “Changes have been successfully deployed” and click Ok.
+<br /><img src="https://i.imgur.com/CrcB7cM.png" height="40%" width="40%" alt="Microsoft SQL Logs Forwarding via WinCollect Agent"/>
 
 
 
